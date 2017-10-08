@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mohamed abd elnaby</string>
+    <string name="massagetext">Write Massage</string>
+    <string name="go_online">Go ONLINE</string>
+    <string name="you_name">YOUR NAME</string>
+    <string name="friends"> MY FRIENDS</string>
+    <string name="goOffline">GO OFFLINE</string>
+    <string name="search">Search...</string>
+</resources>

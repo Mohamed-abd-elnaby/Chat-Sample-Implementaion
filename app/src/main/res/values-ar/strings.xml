@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mohamed abd elnaby</string>
+    <string name="massagetext">اكتب الرسالة</string>
+    <string name="go_online">الدخول</string>
+    <string name="you_name">أسمك</string>
+
+    <string name="friends"> الأصدقاء</string>
+    <string name="goOffline">تسجيل خروج</string>
+    <string name="search">بحث...</string>
+
+
+
+</resources>
